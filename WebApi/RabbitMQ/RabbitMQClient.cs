@@ -20,7 +20,7 @@ public class RabbitMqClient
 
         _connectionFactory = new ConnectionFactory()
         {
-            HostName = "localhost",
+            HostName = "rabbitmq-1",
             UserName = "guest",
             Password = "guest",
             VirtualHost = "/",

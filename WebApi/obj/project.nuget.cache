@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H2qlGvfhGEGWU3ByTtCtl2J2rRGGZGKUqVUasZNOF5Uves9JKX/E7zM5SKNVAQpGPDdPOYKaRwKX6xR9ARkcgQ==",
+  "dgSpecHash": "mF+Q2SAN+C5ejTv+6uU/gK6uNk5BFx6j2b605yRi5dsnSgrZCcOe1r7CMhqYX0KD8FQ61rOXsYGwhGStdxilJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\RiderProjects\\SaEsportes\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\victo\\RiderProjects\\SaEsportes\\backend-sa\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

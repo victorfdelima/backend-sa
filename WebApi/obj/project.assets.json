@@ -2682,11 +2682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\RiderProjects\\SaEsportes\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "c:\\Users\\victo\\RiderProjects\\SaEsportes\\backend-sa\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\victo\\RiderProjects\\SaEsportes\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "c:\\Users\\victo\\RiderProjects\\SaEsportes\\backend-sa\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\RiderProjects\\SaEsportes\\WebApi\\WebApi\\obj\\",
+      "outputPath": "c:\\Users\\victo\\RiderProjects\\SaEsportes\\backend-sa\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
